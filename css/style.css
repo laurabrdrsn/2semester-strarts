@@ -1,0 +1,31 @@
+body {background-color: orange;
+  position: relative;
+
+}
+
+section{
+  margin: 0 auto;
+  width: 650px;
+}
+
+
+#sectionbox1 {
+  backroung: -webkit-linear-gradient(#ff0000 , #ffff00);
+  height: 180px;
+  width: 180px;
+  position: relative;
+  margin: 100px;
+  border: 33px solid black;
+  padding: 100px;
+  float: left;
+}
+
+#sectionbox2 {
+  background-color: grey;
+  height: 300px;
+  width: 300px;
+  position: absolute;
+  left: 40px;
+  top: 40px;
+
+}
